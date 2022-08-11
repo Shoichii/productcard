@@ -1,0 +1,28 @@
+
+.smallSwiper.swiper {
+    height: 100px;
+    position: static;
+}
+
+.smallSwiper .swiper-button-prev {
+    left: -30px;
+    top: 45%;
+}
+
+.smallSwiper .swiper-button-prev::after {
+    font-size: 150%;
+}
+
+.smallSwiper .swiper-button-next {
+    right: -10%;
+    top: 45%;
+}
+
+.smallSwiper .swiper-button-next::after {
+    font-size: 150%;
+}
+
+
+.smallSwiper .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    bottom: 0px;
+}
