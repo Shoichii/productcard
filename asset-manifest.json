@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b4a407a.css",
+    "main.js": "/static/js/main.03547742.js",
+    "static/js/787.62bdb341.chunk.js": "/static/js/787.62bdb341.chunk.js",
+    "static/media/greySneaker.png": "/static/media/greySneaker.ff514cbdb43d12c0c866.png",
+    "static/media/blueSneaker.png": "/static/media/blueSneaker.dc7d779d77ebe344811c.png",
+    "static/media/blackSneaker.png": "/static/media/blackSneaker.0306f1362d3ba4e1b0b3.png",
+    "static/media/yellowSneaker.png": "/static/media/yellowSneaker.81064b0d459ba5e9dfac.png",
+    "index.html": "/index.html",
+    "main.3b4a407a.css.map": "/static/css/main.3b4a407a.css.map",
+    "main.03547742.js.map": "/static/js/main.03547742.js.map",
+    "787.62bdb341.chunk.js.map": "/static/js/787.62bdb341.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b4a407a.css",
+    "static/js/main.03547742.js"
+  ]
+}
